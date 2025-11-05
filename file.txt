@@ -1,2 +1,0 @@
-Project management with git 
-program 5 
